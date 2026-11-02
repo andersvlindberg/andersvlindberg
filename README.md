@@ -2,7 +2,7 @@
 
 Jag vill vara **bryggan mellan verksamhet och teknik**: den som förstår både vad affären behöver och hur datan ska byggas för att ge svaret.
 
-Jag studerar till **Customer Data Developer** på IHM Business School i Stockholm och siktar mot rollen som **analytics engineer**. Innan dess har jag jobbat med kundservice, e-handel och analys. Senast byggde jag en daglig GA4-export till BigQuery och en automatisk veckorapport i Python och SQL, och hittade varför Klarna-köpen aldrig nådde GA4.
+Jag studerar till **Customer Data Developer** på IHM Business School i Stockholm och siktar mot rollen som **analytics engineer** eller **data engineer**. Innan dess har jag jobbat med kundservice, e-handel och analys. Senast byggde jag en daglig GA4-export till BigQuery och en automatisk veckorapport i Python och SQL, och hittade varför Klarna-köpen aldrig nådde GA4.
 
 🔎 **Söker LIA från oktober 2027**
 
