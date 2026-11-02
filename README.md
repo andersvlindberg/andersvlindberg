@@ -16,8 +16,11 @@ Grunden är **30 skills** jag skapat för Claude, som fokuserar på att lära ut
 **[dbt Fundamentals: Jaffle Shop](https://github.com/andersvlindberg/dbt-fundamentals-jaffle-shop)**
 Modellering i dbt Cloud mot Snowflake: källor, staging, marts, tester och dokumentation.
 
-**[Transkribera poddar](https://github.com/andersvlindberg/transkribera-poddar)**
-Gör om poddavsnitt till text med Whisper och Python, och studiematerial till sammanfattningar och presentationer med AI.
+**[Jarvis](https://github.com/andersvlindberg/jarvis)**
+Röststyrd AI-assistent för Windows i stil med Iron Mans Jarvis: tal till text, Claude med MCP-verktyg som gör saker på datorn, röstsvar och en HUD på skärmen. Planeringsfas, se roadmapen i repot.
+
+**[openGym](https://github.com/andersvlindberg/openGym)** *(fork av [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym))*
+Självhostad gym- och träningstracker med öppen källkod. Jag kör den själv och använder den för att lära mig Docker och self-hosting.
 
 ## Verktyg
 
